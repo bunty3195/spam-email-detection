@@ -1,3 +1,0 @@
-data/raw/phishing_email.csv filter=lfs diff=lfs merge=lfs -text
-data/raw/email_classification_1M_Synthetic.csv filter=lfs diff=lfs merge=lfs -text
-data/processed/combined_emails.csv filter=lfs diff=lfs merge=lfs -text
